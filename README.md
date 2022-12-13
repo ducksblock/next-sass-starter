@@ -1,3 +1,4 @@
+🔮 A go-to Next.js SASS/SCSS boilerplate to kickstart your next project 🔮
 ## 🚀 Getting Started
 Run the following command to create a new project with this Starter:
 
